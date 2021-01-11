@@ -14,7 +14,7 @@ You can restrict it to viewing only edits within a specified bounding-box like s
 
 https://osmlab.github.io/show-me-the-way/#bounds=32.55,-15.82,71.65,44.65
 
-* Japan: https://mapconcierge.github.io/show-me-the-way/#bounds=22.35008,122.08008,46.61926,151.43555
+* East Asia: https://mapconcierge.github.io/show-me-the-way/#bounds=22.35008,122.08008,46.61926,151.43555
 
 Build a bounding box URL like that, using this page:
 
