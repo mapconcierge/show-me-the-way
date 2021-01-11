@@ -18,7 +18,7 @@ https://osmlab.github.io/show-me-the-way/#bounds=32.55,-15.82,71.65,44.65
 
 Build a bounding box URL like that, using this page:
 
-https://osmlab.github.io/show-me-the-way/bbox.html
+https://mapconcierge.github.io/show-me-the-way/bbox.html
 
 #### By Changeset Comment
 
